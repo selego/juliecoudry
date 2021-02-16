@@ -1,0 +1,16 @@
+---
+layout: post
+title: "« Briser les murs de verre », en duo avec Florian Raimondi pour Spoken Worlds"
+date: 2012-11-07T02:49:00+00:00
+---
+<div class="main">
+		<p>Montez les bass et écoutez ça !</p>
+	<p><a href="/juliecoudry/uploads/2012/11/studio-triphon-flo-+jc.jpg"><img class="alignleft  wp-image-1419" title="studio triphon flo +jc" src="/juliecoudry/uploads/2012/11/studio-triphon-flo-+jc.jpg" alt="" width="461" height="461"></a></p>
+	<p><span style="font-family: Calibri,sans-serif;"><span style="font-weight: normal;"><br>
+<p class="audioplayer_container"><span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_1">Clip audio : Le lecteur Adobe Flash (version 9 ou plus) est nécessaire pour la lecture de ce clip audio. Téléchargez la dernière version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;promoid=BIOW" title="Download Adobe Flash Player">ici</a>. Vous devez aussi avoir JavaScript activé dans votre navigateur.</span></p>
+</span></span></p>
+	<p>Un beau projet auquel je suis heureuse d’avoir participé. « Chaque duo y est une conversation intime entre une voix et une basse… une confidence, une vue, une pensée, un sentiment autour du texte très personnel de chaque interprète ». 8 personnalités, 8 univers reliés par l’art et la bass de Florian Raimondi.</p>
+	<p>Le morceau « briser les murs de verre » est accompagné par Sébastien Belloc. Pour découvrir tout l’album (en libre écoute jusqu’au 31 décembre 2012), c’est <a href="http://soundcloud.com/spoken-worlds">ici</a> et pour liker c’est <a href="http://www.facebook.com/SpokenWorldsDuos?fref=ts">là</a>.
+</p>
+<p><span class="st_facebook_buttons" st_title="« Briser les murs de verre », en duo avec Florian Raimondi pour Spoken Worlds" st_url="http://www.juliecoudry.com/1414_briser-les-murs-de-verre-mon-duo-avec-florian-raimondi-pour-spoken-worlds.html" displaytext="facebook"></span><span class="st_twitter_buttons" st_title="« Briser les murs de verre », en duo avec Florian Raimondi pour Spoken Worlds" st_url="http://www.juliecoudry.com/1414_briser-les-murs-de-verre-mon-duo-avec-florian-raimondi-pour-spoken-worlds.html" displaytext="twitter"></span><span class="st_email_buttons" st_title="« Briser les murs de verre », en duo avec Florian Raimondi pour Spoken Worlds" st_url="http://www.juliecoudry.com/1414_briser-les-murs-de-verre-mon-duo-avec-florian-raimondi-pour-spoken-worlds.html" displaytext="email"></span><span class="st_sharethis_buttons" st_title="« Briser les murs de verre », en duo avec Florian Raimondi pour Spoken Worlds" st_url="http://www.juliecoudry.com/1414_briser-les-murs-de-verre-mon-duo-avec-florian-raimondi-pour-spoken-worlds.html" displaytext="sharethis"></span><span class="st_plusone_buttons" st_title="« Briser les murs de verre », en duo avec Florian Raimondi pour Spoken Worlds" st_url="http://www.juliecoudry.com/1414_briser-les-murs-de-verre-mon-duo-avec-florian-raimondi-pour-spoken-worlds.html" displaytext="plusone"></span></p>
+</div>

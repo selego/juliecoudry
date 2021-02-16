@@ -1,0 +1,21 @@
+---
+layout: post
+title: "“Former égrégore”"
+date: 2008-12-02T03:34:00+00:00
+---
+<div class="main">
+		<p>Bon clairement jusqu’à il y a une heure je n’utilisais pas cette expression.</p>
+	<p>Il se trouve que la semaine dernière j’ai croisé lors d’un concert à la pena Flamenco en France, <a href="http://fr.wikipedia.org/wiki/Edgar_Morin">Edgar Morin</a>. Quelques a priori très positifs d’autres nettement moins. Je me suis quand même replongée dans ce fameux chapitre “pour une politique de civilisation” qui avait refait parler de lui suite aux voeux 2008 de Sarkozy (polémique qui semble d’ailleurs lointaine vue d’ici, mais passons)</p>
+	<p>Il se trouve aussi que lors de la réunion de travail avec <a href="http://www.philippeherzog.org/">Philippe Herzog</a> ce matin, nous discutions de cette nécessité de donner une forme d’ensemble, un sens, à la multitudes d’actions, d’initiatives qui se prennent dans un domaine. Nous échangions sur la mission de <a href="http://www.la-manu.fr/">LA MANU</a>. Mettre en synergie, en donnant un sens commun, à des actions qui existent déjà en matière de lien entre les étudiants et les entreprises. Bien sûr beaucoup de choses se font , mais finalement qu’est-ce qui se fait ? Toutes ces discussions nous ont emmené loin, politique industrielle, ergonomie complexe, situation démographique mondiale, systèmes éducatifs… j’y reviendrais un de ces quatres.</p>
+	<p>N’empêche qu’en lisant “pour une politique de civilisation” ce soir (façon aussi de me donner bonne conscience après un excès de surf sur twitterland) je suis tombée sur LE concept qui appliqué au social, résume cette approche : FORMER EGREGORE.</p>
+	<blockquote><p>“Partout jaillissent des initiatives pour régénérer le tissu social et la vie citoyenne. Mais ces initiatives sont dispersées et locales. Il faut non les systématiser mais les <em>systémiser</em>, c’est à dire les relier pour qu’elles constituent un tout (…) Aussi plus important que tous les plans et projets seront les processus divers formant égrégore (synthèse d’une force collective qui contient les buts, les espoirs et les désirs de l’ensemble des individus qui s’y rattachent) et allant vers leur synergie.</p></blockquote>
+	<p>Bien sûr dans ce petit bouquin il y a des trucs intelligents à tous les paragraphes. Deux autres échos au temps qui courent.</p>
+	<p>En plus court et plus simple ce que j’évoquais dans des derniers billets <a href="http://www.juliecoudry.com/60_moment-a-saisir.html">moment à saisir</a>, <a href="http://www.juliecoudry.com/131_tout-est-foutu.html">tout est foutu</a> ou en écho à l’<a href="http://www.juliecoudry.com/145_la-france-dans-tous-ses-etats.html">interview de Dominique Reynié :</a></p>
+	<blockquote><p>“Nous souffrons ce problème du retard inévitable de la conscience sur le vécu, accentué par la vitesse et la complexité. (…) Les sociétés complexes évoluent selon un processus de décomposition /recompostion. Comme le dit Alian Caillé : “La catastrophe est là en permanence, et pourtant elle est conjurée en permanence plus ou moins bien” A nous de jouer donc !</p></blockquote>
+	<p>Pour finir avec une pensée pour mes amis syndicalistes qui mènent demain leur dernier jour de campagne pour les <a href="http://www.prudhommes.gouv.fr/">prud’hommes</a>, un petit mot d’Edgar Morin :</p>
+	<blockquote><p>“Aujourd’hui on isole les problèmes du chômage, de l’emploi, de l’exclusion hors de leur contexte et on prétend les traiter à partir d’une logique économique close. Il faut au contraire les considérer au sein d’une grande problématique de société et partir des besoins de civilisation qui, d’eux-mêmes, exigent de nouveaux emplois. Il ne suffit pas de partir d’un “social” qui mettrait entre parenthèse le civilisationnel.”</p></blockquote>
+	<p>Et encore beaucoup de choses d’actualité dans cet essai. Il se demande par exemple si le PS va “changer la vie”…</p>
+	<p>Bon je vais m’arrêter là car chaque page m’évoque un billet.</p>
+	<p>Et plus pragmatiquement rdv le 3 au soir, pour les résultats des prud’hommes.
+</p>
+</div>

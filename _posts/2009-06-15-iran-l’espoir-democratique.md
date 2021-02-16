@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Iran, l’espoir démocratique"
+date: 2009-06-15T05:09:00+00:00
+---
+<div class="main">
+		<p></p>
+<div class="wp-caption aligncenter" style="width: 475px">
+<a href="http://static.slate.fr/sites/default/files/imagecache/articletop/iran3.jpg"><img title="iran poing levé" src="http://static.slate.fr/sites/default/files/imagecache/articletop/iran3.jpg" alt="élections en Iran" width="465" height="310"></a><p class="wp-caption-text">"Elections" 2009 en Iran</p>
+</div>
+	<p style="text-align: left;">
+</p>
+<p class="audioplayer_container"><span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_4">Clip audio : Le lecteur Adobe Flash (version 9 ou plus) est nécessaire pour la lecture de ce clip audio. Téléchargez la dernière version <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;promoid=BIOW" title="Download Adobe Flash Player">ici</a>. Vous devez aussi avoir JavaScript activé dans votre navigateur.</span><script type="text/javascript">AudioPlayer.embed("audioplayer_4", {soundFile:"aHR0cDovL3d3dy5qdWxpZWNvdWRyeS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMDkvMDYvY2hyb25pcXVlLWRlLWp1bGllLWNvdWRyeS0xNTA2MjAwOS5tcDM"});</script></p>
+	<p style="text-align: left;">France Culture le 15 juin 2009</p>
+	<p style="text-align: left;"><em>Ali Badou : Drôle de thème au vue des résultats qui ont été annoncés samedi !</em></p>
+	<p style="text-align: left;">C’est vrai, 48 heures après les résultats de l’élection Iranienne. Mahmoud Ahmadinejad réélu au premier tour. On peut se demander s’il y a toujours un espoir démocratique pour l’Iran. C’est un vrai choc, ces 62% surtout que ça fait suite aux espoirs de changement qui se sont manifestés dans les rues en Iran ces derniers jours. En même temps <strong>on a été un peu naïfs de finir par croire qu’il allait vraiment y avoir des élections démocratiques en Iran</strong>. Il faut rappeler que les candidats aux élections présidentielles sont choisis par les Gardiens de la Révolution, que ce sont eux qui tiennent les Bureaux de vote et qui s’occupent du dépouillement… Et si on en doutait encore hier, la preuve est faite aujourd’hui, qu’on ne peut pas fonder le moindre  espoir, dans des élections organisées par ce régime.</p>
+	<p style="text-align: left;"><em>Ali Badou : Oui mais Mahmoud Ahmadinejad vient d’être réélu, alors plus d’espoir ?</em></p>
+	<p style="text-align: left;">Justement, je me demande si cette élection va vraiment mettre fin à cette envie de changement. Avant ce résultat quand j’ai vu les foules prendre possession des rues, chanter des chants patriotiques, … j’ai senti de la vie, du désir dans le cœur des iraniens. Et ça, <strong>c’est pas juste une poussée de fièvre, c’est un mouvement de fond qui anime la société civile iranienne.</strong></p>
+	<p style="text-align: left;">L’Iran ce n’est pas qu’un régime et les problèmes qu’il pose au monde, c’est aussi <strong>70 millions d’habitants, dont la moitié qui a moins de trente ans. </strong>Et il existe aussi une opposition à caractère social dont on ne parle pas ou très peu. On la trouve dans la <strong>classe intellectuelle</strong> : parmi les instituteurs, les professeurs, les écrivains, les journalistes. C’est clair que la plupart de leurs écrits sont censurés, certains sont emprisonnés, torturés, condamnés à l’exil. Mais tout ça n’empêche pas ce mouvement de continuer à vivre. Il se développe aujourd’hui de façon plus souterraine notamment grâce aux nouvelles technologies. Les Blogs par exemple ont remplacés les journaux parce qu’ils sont plus difficiles à censurer.</p>
+	<p style="text-align: left;">Je pense aussi aux étudiants, au <strong>mouvement étudiant</strong>, à Akbar Atri qui a été le leader du mouvement de 2006 pour les droits de l’homme et la démocratique. Les étudiants à cette occasion ont été très durement réprimés par le régime, mais ils continuent à mener leur combat dans les universités.</p>
+	<p style="text-align: left;">Je pense aussi aux <strong>syndicalistes</strong>, à Mansour Ansaloo, qui a organisé la grève dans les transports à Téhéran et aussi à tous ceux qui portent la parole des ouvriers iraniens. Je pense bien sûr aux <strong>femmes</strong>.</p>
+	<p style="text-align: left;"><a href="/juliecoudry/uploads/2009/06/iran-manifestation-femmes.jpg"><img class="aligncenter size-full wp-image-567" title="iran-manifestation-femmes" src="/juliecoudry/uploads/2009/06/iran-manifestation-femmes.jpg" alt="" width="500" height="347"></a></p>
+	<p style="text-align: left;"><em>Ali Badou : Elles ont quand même été des soutiens importants de la révolution Islamique de 1979…</em><a href="/juliecoudry/uploads/2009/06/etudiants-24-fevrier.jpg"><br>
+</a></p>
+	<p style="text-align: left;">Oui c’est vrai mais depuis elles ont vu leur situation se dégrader dans tous les domaines. C’est aussi tous ces combats qui se sont exprimé avant l’élection <a href="/juliecoudry/uploads/2009/06/manif-a-teheran-aujourdhui.wmv">dans les rues des grandes villes</a>. C’est un espoir qui a été déçu parce qu’il n’a pas débouché politiquement. Mais dans le même temps <strong>toutes ces forces n’ont pas disparu avec l’élection</strong>. Et la question qui se pose aujourd’hui c’est comment tout ça va s’inscrire dans la durée, comment continuer à résister ? Et <strong>ça nous interroge nous-mêmes, sur nos propres responsabilités, sur les liens qu’on a à créer avec cette opposition sociale iranienne.</strong></p>
+	<p style="text-align: left;">
+	</p>
+<p style="text-align: left;">D’autant qu’aujourd’hui <strong>le temps est compté</strong> si on ne veut pas en rester à une seule alternative : la voie des négociations avec ce régime ou la guerre, sachant que les deux renforceront le régime en place, en oubliant complètement le peuple iranien.</p>
+	<p style="text-align: left;">Nous avons su dans le passé faire vivre cette solidarité internationale, et dans des contextes internationaux tout aussi complexes. Nous avons su créer des liens et soutenir les mouvements sociaux dans les pays de l’est. Ils ont fini par reprendre leur destin en main et face à des régimes tout aussi autoritaires.</p>
+	<p style="text-align: left;">Alors la seule question que j’ai envie de poser c’est <strong>« qu’est ce qu’on attend pour tenter à nouveau cette voie, cette fois avec la société civile iranienne ? »</strong></p>
+	<p style="text-align: left;">
+</p>
+</div>

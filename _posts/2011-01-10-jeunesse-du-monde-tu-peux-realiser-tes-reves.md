@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Jeunesse du monde tu peux réaliser tes rêves !"
+date: 2011-01-10T03:59:00+00:00
+---
+<div class="main">
+		<p><strong><span style="color: #800000;">C’est ce que m’inspire deux soirées qui auront lieu à quelques jours d’écart dans les 10 jours à venir ! Ah 2011 en moins d’un mois tu nous fais déjà sentir tes ondes créatrices.</span></strong></p>
+	<p>La première soirée c’est vendredi 14 à Paris.<a href="/juliecoudry/uploads/2011/01/2011-donoma-is-alive.jpg"><img class="alignright size-medium wp-image-922" title="2011-donoma-is-alive" src="/juliecoudry/uploads/2011/01/2011-donoma-is-alive.jpg" alt="" width="160" height="226"></a></p>
+	<p>Le forum de la Bellevilloise se transforme en disneyland de la guerilla production. Du rêve à la réalité, une soirée pour découvrir les coulisses de l’épopée du film Donoma réalisée avec 150 euros. Le collectif blueprint guerilla animée par le réalisateur Djinn Carrenard, nous contera en animation comment la vision, le talent, la croyance et l’ingéniosité peuvent remplacer l’argent d’une production. Comment ils sont passé d’un rêve, d’une ambition à un film plébiscité et soutenu par le public. De la technique d’impro dirigée des acteurs, à la stratégie de réalisation d’un film sans prod en passant par la philosophie entrepreneuriale du projet, une soirée pour découvrir sous toutes ses coutures ce qui est aujourd’hui bien plus qu’un film. Pour s’inscrire c’est <a href="http://www.facebook.com/event.php?eid=185682398115731">ici</a>.</p>
+	<p><a href="/juliecoudry/uploads/2011/01/2011-la-jeunesse-du-monde.jpg"><img class="alignleft size-medium wp-image-921" title="2011-la-jeunesse-du-monde" src="/juliecoudry/uploads/2011/01/2011-la-jeunesse-du-monde-300x283.jpg" alt="" width="240" height="226"></a>Quelques jours plus tard, quatre exactement, le 18, la Fondation pour l’Innovation Politique présentera en avant première au pavillon Cambon Capucines : les résultats d’une enquête planétaire réalisée auprès de 32700 jeunes dans 25 pays répartis sur les 5 continents. 500 jeunes participeront à cette soirée pour découvrir leurs manières de vivre, leurs opinions, leurs aspirations, leurs peur, leurs rêves. 32700 jeunes ! J’ai hâte de découvrir qui nous sommes, ce que nous avons en commun et qui par delà tout ce qui nous sépare, fait de nous la jeunesse planétaire ! A suivre aussi sur Twitter #WWY. Pour s’inscrire c’est <a href="http://www.fondapol.org/les-travaux/toutes-les-publications/publication/titre/soiree-2011-la-jeunesse-du-monde.html">ici</a>.</p>
+	<p>Coïncidence de calendrier ? et si on y voyait un signe, une jeunesse planétaire qui se met à entreprendre pour réaliser ses rêves…bienvenue année 2011 !
+</p>
+</div>

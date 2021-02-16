@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Le taux de chômage c’est comme dans une baignoire…"
+date: 2009-11-03T07:31:00+00:00
+---
+<div class="main">
+		<p><a href="http://barcarespourtous.com/IMG/jpg/Robinet.jpg"></a></p>
+	<p style="text-align: center;"><a href="/juliecoudry/uploads/2009/11/baignoire-mag2.png"></a></p>
+	<p style="text-align: center;"><a href="/juliecoudry/uploads/2009/11/baignoire-mag21.png"><img class="size-full wp-image-693 aligncenter" title="baignoire-mag21" src="/juliecoudry/uploads/2009/11/baignoire-mag21.png" alt="" width="500" height="502"></a></p>
+	<p>La récente <a href="http://www.jeunesse-vie-associative.gouv.fr/L-insertion-des-jeunes-diplomes.html">enquête </a>TNS Sofres réalisée pour le Haut commissariat à la Jeunesse montre entre autre que s’installe chez les jeunes diplômés “le sentiment que les entreprises ne recrutent pas”. Pas très étonnant au vu du discours catastrophiste ambiant. A entendre les actualités, nous n’aurions que des raisons de nous morfondre, de sombrer dans le pessimisme ou de subir. C’est clair qu’à force, on a bien compris ou étaient les mauvaises nouvelles - et elles sont bien réelles - mais le fait que “les entreprises ne recrutent pas” est faux.</p>
+	<p>Elles recrutent moins qu’à d’autres périodes, il y a plus de destructions que de créations d’emplois, des secteurs économiques s’effondrent et c’est souvent humainement dramatique, les incertitudes planent, mais ce ne sont pas les seuls aspects de la réalité du moment. Simplement nous entendons beaucoup moins parler des bonnes nouvelles, des dynamiques, des opportunités qui émergent et c’est pourtant aussi de ce type d’informations dont ont besoin ceux qui cherchent un emploi, pour être plus avisés dans leur recherche (et donc plus efficaces) et aussi moins démoralisés.</p>
+	<p>Par exemple il n’est pas inutile de rappeler que derrière le taux de chômage qui monte, des dizaines de milliers d’emplois sont crées (et d’autres détruits) chaque jour et des centaines chaque mois ; que l’évolution du taux de chômage résulte de la différence entre ce nombre d’emplois créés et ce nombre d’emplois détruits.<strong> “C’est comme dans une baignoire où il y a de l’eau qui rentre et de l’eau qui sort : le niveau de l’eau correspond à la différence entre l’arrivée et la sortie.”</strong> nous dit Etienne Wasmer dans le numéro <a href="http://www.la-manu.fr/la-manu-le-mag-2-sur-les-facs.html">2 de <em>LA MANU, le Mag’</em> </a>qui vient de sortir sur les campus.</p>
+	<p>Un média d’un nouveau genre qui sans angélisme décrit la réalité de l’économie et de l’entreprise en cherchant, dans ce dernier numéro, à débusquer les signes positifs, les opportunités à saisir, les voies qui s’ouvrent dans ce monde qui bascule. En commençant par l’article “Marché de l’emploi : sous les indicateurs, les flux”  c’est un nouveau voyage au coeur de l’entreprise qui s’annonce avec ce nouveau numéro de <em>LA MANU, le Mag’</em> …. très bientôt dans vos amphis (si vous avez la chance d’avoir une antenne de LA MANU dans votre ville : ))
+</p>
+</div>
